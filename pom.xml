@@ -46,7 +46,7 @@
                         </goals>
                     </execution>
                     <execution>
-                        <id>cheak</id>
+                        <id>check</id>
                         <phase>verify</phase>
                     </execution>
                 </executions>
